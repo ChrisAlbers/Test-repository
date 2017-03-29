@@ -5,3 +5,13 @@ I'm making some changes. Tupac - changes is a pretty good song, it's more than o
 Tok Tok Tok Tok
 
 A good site for when make an error in git is ohshitgit.com
+
+
+
+Blabla dit is een aanpassing, super nice.
+
+Even kijken of ik deze aanpassing ook kan pushen.
+
+
+
+
