@@ -16,4 +16,4 @@ Even kijken of ik deze aanpassing ook kan pushen.
 --------------
 *Let's get down to business.* Time to add another file. Maybe even a piece of code.
 -------
-I think i'm getting the hang of it!
+I think i'm getting the hang of this!
